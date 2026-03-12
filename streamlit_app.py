@@ -40,6 +40,8 @@ if page == "Business Case 📘":
 
     st.subheader("Student Performance Factors Dashboard")
 
+    st.image("students-sitting-exams-s.png", use_container_width=True)
+
     st.markdown("[🔗 View dataset source on Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)")
 
     st.markdown("""
